@@ -1,0 +1,30 @@
+<svg width="700" height="100" viewBox="0 0 700 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes scramble {
+      0%, 20% { opacity: 0; }
+      21%, 40% { opacity: 1; }
+      41%, 100% { opacity: 0; }
+    }
+    @keyframes reveal {
+      0%, 60% { opacity: 0; }
+      70%, 100% { opacity: 1; }
+    }
+    .text { font-family: 'Fira Code', monospace; font-weight: 600; font-size: 28px; }
+    .random { fill: #7DCFFF; opacity: 0; animation: scramble 2s infinite; }
+    .final { fill: #7DCFFF; opacity: 0; animation: reveal 2s infinite forwards; }
+  </style>
+
+  <!-- Capa de caracteres aleatorios (Cambiando rápido) -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text random">
+    <tspan>_xA7$9kL#vP</tspan>
+  </text>
+  
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text random" style="animation-delay: 0.4s;">
+    <tspan>F#ll St@ck D3v</tspan>
+  </text>
+
+  <!-- Capa del texto final -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text final">
+    Full Stack Developer
+  </text>
+</svg>
