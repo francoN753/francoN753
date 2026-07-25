@@ -63,11 +63,11 @@ I am an 18-year-old computer engineering student in Venezuela, and for as long a
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=francoN753&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Dev strike
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=francoN753&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/francoN753">francoN753</a></i></p>
