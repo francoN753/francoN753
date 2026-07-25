@@ -66,7 +66,7 @@ I am an 18-year-old computer engineering student in Venezuela, and for as long a
 ### 💭 Dev strike
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=francoN753&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=francoN753&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
